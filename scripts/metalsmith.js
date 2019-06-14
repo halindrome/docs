@@ -177,11 +177,12 @@ exports.metalsmith = function () {
         orderDynamicCollections: [
           'device-os',
           'developer-tools',
-          'device-cloud',
           'cellular-connectivity',
+          'device-cloud',
+          'diagnostics',
           'product-tools',
-          'iot-rules-engine',
           'integrations',
+          'iot-rules-engine',
           'hardware-projects'
         ]
       },
