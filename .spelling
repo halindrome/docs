@@ -3390,6 +3390,16 @@ SD_CK
 SD_MO
 SD_CS
 SD_DET
+tooltip
+csv
+mcc
+mnc
+ad-hoc
+relatedly
+crms
+erps
+tickmark
+uptime
  - src/content/datasheets/cellular/b-series-eval-board.md
 P1.14
 P1.15
@@ -3423,3 +3433,5 @@ compileCode
 createUser
 listAccessTokens
 deleteAccessToken
+ - src/content/tutorials/diagnostics/device-vitals.md
+Particle.publishVitals
